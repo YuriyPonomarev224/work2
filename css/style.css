@@ -96,3 +96,108 @@ nav a:active {
 .subheader_item3 {
   padding-top: 82px;
 }
+.benefits {
+  padding-top: 48px;
+}
+.benefits .container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 1200px;
+  max-height: 108px;
+}
+.benefits .container .benefits_item {
+  max-width: 400px;
+}
+.benefits .container .benefits_item .benefits_descrp {
+  margin: 0;
+  display: inline-block;
+  margin-left: 20px;
+  max-width: 290px;
+}
+.benefits .container .benefits_item .benefits_descrp h2 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ae7c78;
+}
+.benefits .container .benefits_item .benefits_descrp p {
+  font-family: Montserrat;
+  padding-top: 8px;
+  font-style: normal;
+  font-size: 16px;
+  color: #ae7c78;
+}
+.benefits .container .benefits_item .benefits_img {
+  display: inline-block;
+  vertical-align: top;
+}
+.popular {
+  padding-top: 80px;
+  margin: 0 auto;
+}
+.popular .container {
+  margin: 0 auto;
+  max-width: 794px;
+  max-height: 546px;
+}
+.popular .popular_h2 {
+  text-align: center;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  color: #ae7c78;
+}
+.popular .container .popular_descrp {
+  padding-top: 63px;
+  max-width: 396px;
+}
+.popular .container .popular_descrp h3 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ae7c78;
+}
+.popular .container .popular_descrp .popular_flwr_descrp {
+  margin-top: 20px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ae7c78;
+}
+.popular .container .popular_descrp .size {
+  margin-top: 24px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ae7c78;
+}
+.popular .container .popular_descrp .price {
+  margin-top: 24px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ae7c78;
+}
+.popular .container .popular_descrp .popular_btn {
+  border: 0;
+  margin-top: 84px;
+  width: 285px;
+height: 80px;
+  background: #D89999;
+border-radius: 40px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+color: #FFFFFF;
+}
+.popular .container .popular_img {
+  display: inline-block;
+}
